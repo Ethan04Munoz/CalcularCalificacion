@@ -1,0 +1,12 @@
+Documentacion del proyecto
+
+Objetivo: Ser una manera fácil de calcular cuanta calificación necesitas en el tercer parcial de acuerdo a las ponderaciones de CETI
+
+Progreso: 
+    13-05-2022: 
+        Ya funcionan las 3 ponderaciones y permite calcular
+        Las opciones pueden ser seleccionadas también con el texto y no solo con la bolita
+        El texto se adecua a dispositivos moviles
+
+    *insertar fecha*
+        *insertar modificacion*
