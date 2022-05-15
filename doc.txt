@@ -8,5 +8,10 @@ Progreso:
         Las opciones pueden ser seleccionadas también con el texto y no solo con la bolita
         El texto se adecua a dispositivos moviles
 
-    *insertar fecha*
-        *insertar modificacion*
+    15-05-2022:
+        Se añaden alerts-verificaciones para revisar que llenes ambos campos de calificacion
+        Se añaden alerts-verificaciones para verificar que llenes una ponderación
+        Se añaden alerts-verificaciones para revisar que ingreses números en los campos de calificación
+        Se añade que en caso de necesitar más de 100 puntos en el tercer parcial te lo mencione mediante un alert.
+        Cambios ligeros en los estilos de las fuentes.
+        Cambios ligeros en los estilos de las cajas de texto donde el usuario ingresa calificaciones.
