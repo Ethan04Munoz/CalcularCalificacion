@@ -12,11 +12,11 @@ function getData(){
                  //Al final, si el valor de bandera sigue siendo 0 quiere decir que todo salió bien y ejecuta el resto de la función, todo dentro de un if
     if(calif1Parcial == 0 || calif2Parcial == 0){ 
         alert("Por favor, ingresa ambos datos para poder calcular la calificación que necesitas"); 
-        bandera = bandera++;
+        bandera = 1;
     }
     if(!document.getElementById("ponA").checked && !document.getElementById("ponB").checked  && !document.getElementById("ponC").checked ){
         alert("Por favor, selecciona una ponderación para poder calcular la calificación");
-        bandera = bandera++;
+        bandera = 1;
     }
     if(bandera==0){
         var calNeed;

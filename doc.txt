@@ -15,3 +15,10 @@ Progreso:
         Se añade que en caso de necesitar más de 100 puntos en el tercer parcial te lo mencione mediante un alert.
         Cambios ligeros en los estilos de las fuentes.
         Cambios ligeros en los estilos de las cajas de texto donde el usuario ingresa calificaciones.
+
+    15-02-2022 (2):
+        Se añade el backgroud degradado.
+        Se añade una imagen del bosque.
+        Se añade el GitHub al final de la página.
+        Se hace la diferenciación de el div del cuerpo con el fondo.
+        Se hacen otros pequeños cambios en los estilos.
