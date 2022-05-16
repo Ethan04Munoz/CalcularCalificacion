@@ -22,3 +22,7 @@ Progreso:
         Se añade el GitHub al final de la página.
         Se hace la diferenciación de el div del cuerpo con el fondo.
         Se hacen otros pequeños cambios en los estilos.
+
+    15-02-2022 (3):
+        Se añade en el script "resposive.js" que se encarga de obtener el ancho de la pantalla
+        Se añade un grupo de IDs que sirven para agrandar el width conforme la pantalla se hace chica
